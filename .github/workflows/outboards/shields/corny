@@ -1,0 +1,4 @@
+outboard_repository=biruh/zmk-config
+outboard_ref=miryokumain
+outboard_from=/
+outboard_to=boards/shields/corny
